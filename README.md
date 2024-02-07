@@ -1,3 +1,1 @@
-Irregular verbs
-
-#irregularverbs
+List of irregular verbs
