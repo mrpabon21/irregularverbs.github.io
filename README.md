@@ -1,3 +1,3 @@
 List of irregular verbs
 
-Mail me: info@irregularverbs.cc
+info at irregularverbs.cc
