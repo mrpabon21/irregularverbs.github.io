@@ -1,3 +1,3 @@
-List of irregular verbs
+# List of irregular verbs
 
 info at irregularverbs.cc
